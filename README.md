@@ -6,7 +6,8 @@ This Project Focus On analyzeing the give data set and filtering the data and cr
 
 CryptoData File contains the data set.
 
-bgImage is the image used as the background image.
+BgImage is the image used as the background image.
+
 
 ![image](https://user-images.githubusercontent.com/104089846/182922226-2fbba1b9-ef0b-405e-916e-c3f9005ed126.png)
 
